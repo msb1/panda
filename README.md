@@ -15,6 +15,6 @@
 <li></li>
 </ol>
 
-![Influenza Seasonal Tracker from CDC](https://github.com/msb1/covid19-tracker-fitter/blob/master/influenza-by-season.png)
+![Radboud Sample](https://github.com/msb1/panda/blob/master/samples/R67799.png)
 
-![Influenza Seasonal Tracker from CDC](https://github.com/msb1/covid19-tracker-fitter/blob/master/influenza-by-season.png)
+![Karolinska Sample](https://github.com/msb1/panda/blob/master/samples/K9d0af.png)
